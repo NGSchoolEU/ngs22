@@ -38,7 +38,7 @@ as panelists.
 
 ### :mega: Unsupervised learning - part 1
 
-<img src="images/unsupervised_1.png" width="400" />
+<img src="images/unsupervised_1.png" width="400" height="200" />
 
 Lecture led by [Kaspar Märtens](https://kaspar.website/) and [Kasia
 Kędzierska](https://kasia.codes/). Slides will be soon available here.
@@ -56,7 +56,7 @@ Session led by German Demidov. Slides are available
 
 ### :computer: Unsupervised learning - part 2
 
-<img src="images/unsupervised_2.png" width="400" />
+<img src="images/unsupervised_2.png" width="400" height="240" />
 
 Session led by [Kasia Kędzierska](https://kasia.codes/) and [Kaspar
 Märtens](https://kaspar.website/). Github repository:
