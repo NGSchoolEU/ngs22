@@ -3,13 +3,15 @@ title: "NGSchool2022 materials"
 output: github_document
 ---
 
-Welcome to the NGSchool2022: Machine Learning in Computational Biology materials. Here you will be able to find links to slides, materials, repositories with code and for some lectures videos.
+Welcome to the [NGSchool2022: Machine Learning in Computational Biology](https://ngschool.eu/ngschool2022/) materials. Here you will be able to find links to slides, materials, repositories with code and for some lectures videos.
 
 Some videos are available publicly, while some are restricted to participants of the school - they will be marked with :lock: and will require a password to access. 
 
 Enjoy!
 
 Workshops are marked with :computer:, panel discussion with :speech_balloon: and lectures with :mega:.
+
+[![](program.png)](https://ngschool.eu/ngschool2022/#program)
 
 ## Day 0  [15/09/2022]
 
@@ -80,3 +82,19 @@ Lecture by Maja Kuzman.
 ### :computer: Tree-based methods
 
 Session led by Maja Kuzman & Anamaria Elek.
+
+## Day 5 [20/09/2022]
+
+### :computer: Feature selection
+
+Session led by Miron Kursa.
+
+### :computer: Survival analysis
+
+Session led by German Demidov. 
+
+## Day 6 - 7 [21-22/09/2022]
+
+### Deep Learning in practice 
+
+Sessions led by Dmytro Fishman.
