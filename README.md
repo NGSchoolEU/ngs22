@@ -24,8 +24,9 @@ Workshops are marked with :computer:, panel discussion with
 ### :speech_balloon: Introduction to Machine Learning
 
 Discussion panel moderated by Gladys Wojciechowska with Nuno Sepúlveda,
-Kaspar Märtens, German Demidov, Anamaria Elek, Karolina Sienkiewicz and
-Kasia Kędzierska as panelists.
+[Kaspar Märtens](https://kaspar.website/), German Demidov, Anamaria
+Elek, Karolina Sienkiewicz and [Kasia Kędzierska](https://kasia.codes/)
+as panelists.
 
 ## Day 1 \[16/09/2022\]
 
@@ -37,8 +38,8 @@ Kasia Kędzierska as panelists.
 
 ### :mega: Unsupervised learning - part 1
 
-Lecture led by Kaspar Märtens and Kasia Kędzierska. Slides will be soon
-available here.
+Lecture led by [Kaspar Märtens](https://kaspar.website/) and [Kasia
+Kędzierska](https://kasia.codes/). Slides will be soon available here.
 
 ## Day 2 \[17/09/2022\]
 
@@ -53,14 +54,15 @@ Session led by German Demidov. Slides are available
 
 ### :computer: Unsupervised learning - part 2
 
-Session led by Kasia Kędzierska and Kaspar Märtens. Github repository
+Session led by [Kasia Kędzierska](https://kasia.codes/) and [Kaspar
+Märtens](https://kaspar.website/). Github repository
 [ngs22_unsupervised](https://github.com/kzkedzierska/ngs22_unsupervised).
 
 ### :mega: Clustering in Computational Biology
 
-Lecture by Karolina Sienkiewicz and Kaspar Märtens. Slides are available
+Lecture by Karolina Sienkiewicz (feat. [Kaspar
+Märtens](https://kaspar.website/)). Slides are available
 [here](day2/Clustering_in_comp_bio.pdf).
-
 
 ## Day 3 \[18/09/2022\]
 
