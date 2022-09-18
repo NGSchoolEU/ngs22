@@ -77,7 +77,8 @@ Session led by Urszula Smyczyńska.
 ### :mega: Deep Learning in Computational Biology
 
 Lecture by [Leopold
-Parts](https://www.sanger.ac.uk/person/parts-leopold/).
+Parts](https://www.sanger.ac.uk/person/parts-leopold/). Slides are
+available [here](day3/2022-09-18_NGSchool-Jablonna_DL.pdf).
 
 ### :mega: Evaluation of AI models
 
