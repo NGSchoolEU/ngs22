@@ -58,7 +58,9 @@ Session led by Kasia Kędzierska and Kaspar Märtens. Github repository
 
 ### :mega: Clustering in Computational Biology
 
-Lecture by Karolina Sienkiewicz and Kaspar Märtens.
+Lecture by Karolina Sienkiewicz and Kaspar Märtens. Slides are available
+[here](day2/Clustering_in_comp_bio.pdf).
+
 
 ## Day 3 \[18/09/2022\]
 
