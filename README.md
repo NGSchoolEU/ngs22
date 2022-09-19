@@ -47,7 +47,8 @@ Kędzierska](https://kasia.codes/). Slides will be soon available here.
 
 ### :mega: Model explainability
 
-Lecture by [Krzysztof Geras](https://cs.nyu.edu/~kgeras/).
+Lecture by [Krzysztof Geras](https://cs.nyu.edu/~kgeras/). Slides are
+available [here](day2/explainability.pdf).
 
 ### :computer: Cross-validation and model evaluation
 
@@ -82,7 +83,8 @@ available [here](day3/2022-09-18_NGSchool-Jablonna_DL.pdf).
 
 ### :mega: Evaluation of AI models
 
-Lecture by [Krzysztof Geras](https://cs.nyu.edu/~kgeras/).
+Lecture by [Krzysztof Geras](https://cs.nyu.edu/~kgeras/). Slides are
+available [here](day3/evaluation.pdf).
 
 ## Day 4 \[19/09/2022\]
 
@@ -104,7 +106,9 @@ Lecture by Maja Kuzman. Slides are available
 
 ### :computer: Tree-based methods
 
-Session led by Maja Kuzman & Anamaria Elek.
+Session led by Maja Kuzman & Anamaria Elek. Github repository with
+materials is available
+[here](https://github.com/anamariaelek/NGSchool22-trees-workshop).
 
 ## Day 5 \[20/09/2022\]
 
