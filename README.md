@@ -99,7 +99,8 @@ Farrell.
 
 ### :mega: Tree-based methods
 
-Lecture by Maja Kuzman.
+Lecture by Maja Kuzman. Slides are available
+[here](day4/Tree_based_methods.pdf).
 
 ### :computer: Tree-based methods
 
